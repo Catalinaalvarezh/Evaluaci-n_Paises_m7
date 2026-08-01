@@ -1,4 +1,3 @@
-# Evaluaci-n_Paises_m7
 # Evaluación: Sistema de Gestión de Países y PIB
 
 ## Objetivos de la Aplicación
